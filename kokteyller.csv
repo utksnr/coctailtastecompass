@@ -1,0 +1,158 @@
+name,sweet,sour,bitter,boozy,herbal,base_spirit,ingredients,instructions
+Negroni,3,2,9,10,8,Gin,"30ml Gin, 30ml Campari, 30ml Sweet Vermouth","Buz dolu bardağa dök, karıştır ve portakal kabuğu ekle."
+Dry Martini,1,1,3,10,7,Gin,"60ml Gin, 10ml Dry Vermouth","Buzla karıştır, süz. Zeytin veya limon kabuğu ekle."
+Gimlet,5,8,1,7,3,Gin,"60ml Gin, 20ml Lime Juice, 15ml Simple Syrup",Çalkala ve süz.
+Aviation,5,7,2,7,9,Gin,"45ml Gin, 15ml Maraschino Liqueur, 15ml Lemon Juice, 1 bar spoon Crème de Violette",Buzla çalkala ve süz.
+Old Fashioned,6,1,4,10,3,Whiskey,"45ml Bourbon, 2 damla Angostura Bitter, 1 küp şeker","Şekeri bitterle ez, buzu ve viskiyi ekleyip karıştır."
+Whiskey Sour,6,9,1,7,1,Whiskey,"45ml Bourbon, 25ml Lemon Juice, 20ml Simple Syrup",Çalkala ve süz.
+Manhattan,5,1,5,9,6,Whiskey,"50ml Rye Whiskey, 20ml Sweet Vermouth, 1 damla Angostura",Karıştır ve süz.
+Boulevardier,4,1,8,10,7,Whiskey,"30ml Bourbon, 30ml Campari, 30ml Sweet Vermouth",Buzla karıştır ve süz.
+Margarita,4,9,1,7,2,Tequila,"50ml Tequila, 20ml Triple Sec, 15ml Lime Juice",Kenarı tuzlanmış bardağa çalkalayarak süz.
+Paloma,6,8,3,6,2,Tequila,"50ml Tequila, 10ml Lime Juice, Greyfurt Sodası","Bardağa malzemeleri ekle, soda ile tamamla."
+Mojito,8,7,1,5,10,Rum,"45ml Rum, 20ml Lime Juice, 6 yaprak nane, Şeker, Soda","Nane ve şekeri ez, buzu ve romu ekle, sodayla tamamla."
+Daiquiri,6,9,1,7,1,Rum,"45ml Beyaz Rom, 25ml Lime Juice, 15ml Simple Syrup",Buzla çalkala ve süz.
+Espresso Martini,6,1,8,7,1,Vodka,"50ml Vodka, 30ml Espresso, 10ml Kahve Likörü",Buzla sertçe çalkala ve süz.
+Moscow Mule,7,8,2,5,4,Vodka,"45ml Vodka, 120ml Zencefil Birası, 10ml Lime Juice",Bakır bardakta buzla karıştır.
+Cosmopolitan,7,8,2,6,2,Vodka,"40ml Citron Vodka, 15ml Cointreau, 15ml Lime Juice, 30ml Kızılcık Suyu",Çalkala ve süz.
+Aperol Spritz,7,4,6,4,6,Aperol,"90ml Prosecco, 60ml Aperol, 30ml Soda","Bardağa buz doldur, sırasıyla ekle ve karıştır."
+French 75,5,7,1,8,4,Gin,"30ml Gin, 15ml Lemon Juice, 15ml Simple Syrup, Champagne","Shake gin, lemon, and syrup. Strain and top with champagne."
+Sazerac,4,0,6,10,7,Whiskey,"50ml Cognac or Rye, 10ml Absinthe, 1 sugar cube, 3 dashes Peychaud’s Bitters",Rinse glass with absinthe. Stir other ingredients and strain.
+Pisco Sour,6,8,2,7,1,Pisco,"60ml Pisco, 30ml Lemon Juice, 20ml Simple Syrup, Egg White","Shake without ice, then with ice. Strain and add bitters on foam."
+Clover Club,7,7,1,6,2,Gin,"45ml Gin, 15ml Raspberry Syrup, 15ml Lemon Juice, Egg White",Shake and strain into a chilled glass.
+Sidecar,5,8,1,8,1,Cognac,"50ml Cognac, 20ml Triple Sec, 20ml Lemon Juice",Shake with ice and strain into a sugar-rimmed glass.
+Bloody Mary,3,5,4,5,6,Vodka,"45ml Vodka, 90ml Tomato Juice, 15ml Lemon Juice, Spices",Stir gently with ice and pour into glass. Garnish with celery.
+Tom Collins,6,7,1,5,3,Gin,"45ml Gin, 30ml Lemon Juice, 15ml Simple Syrup, Soda","Build in glass over ice, top with soda."
+White Lady,4,8,1,7,3,Gin,"40ml Gin, 30ml Triple Sec, 20ml Lemon Juice",Shake with ice and strain.
+Dark 'n' Stormy,6,5,3,6,5,Rum,"60ml Dark Rum, 100ml Ginger Beer, Lime Wedge","Pour ginger beer over ice, float rum on top."
+Penicillin,5,7,3,8,9,Whiskey,"60ml Blended Scotch, 22ml Lemon Juice, 22ml Honey-Ginger Syrup, Islay Scotch Float","Shake all but Islay scotch. Strain over ice, float smoky scotch."
+Last Word,4,7,5,8,10,Gin,"22ml Gin, 22ml Green Chartreuse, 22ml Maraschino Liqueur, 22ml Lime Juice",Shake with ice and strain.
+Paper Plane,5,7,6,7,6,Whiskey,"22ml Bourbon, 22ml Amaro Nonino, 22ml Aperol, 22ml Lemon Juice",Shake with ice and strain.
+Jungle Bird,6,5,7,7,4,Rum,"45ml Dark Rum, 22ml Campari, 15ml Lime Juice, 15ml Simple Syrup, 45ml Pineapple Juice",Shake with ice and strain.
+Mai Tai,7,6,2,8,4,Rum,"40ml Dark Rum, 20ml White Rum, 15ml Orange Curacao, 15ml Orgeat, 10ml Lime Juice",Shake with ice and strain into glass with crushed ice.
+Piña Colada,10,2,0,5,1,Rum,"50ml White Rum, 50ml Coconut Cream, 50ml Pineapple Juice",Blend with ice or shake and strain.
+Bee's Knees,7,7,1,7,5,Gin,"60ml Gin, 22ml Lemon Juice, 22ml Honey Syrup",Shake with ice and strain.
+Southside,6,7,1,6,9,Gin,"60ml Gin, 30ml Lime Juice, 22ml Simple Syrup, Mint Leaves",Shake with ice and strain.
+Corpse Reviver #2,4,8,2,8,7,Gin,"22ml Gin, 22ml Lillet Blanc, 22ml Triple Sec, 22ml Lemon Juice, Absinthe Rinse",Rinse glass with absinthe. Shake other ingredients and strain.
+French Martini,8,4,1,6,1,Vodka,"50ml Vodka, 15ml Raspberry Liqueur, 35ml Pineapple Juice",Shake with ice and strain.
+Bramble,7,7,2,6,3,Gin,"40ml Gin, 15ml Lemon Juice, 10ml Simple Syrup, 15ml Blackberry Liqueur","Build over crushed ice, drizzle liqueur on top."
+Americano,4,2,8,4,7,Campari,"30ml Campari, 30ml Sweet Vermouth, Soda Water","Build in glass over ice, top with soda."
+Gin Fizz,6,7,1,6,3,Gin,"45ml Gin, 30ml Lemon Juice, 10ml Simple Syrup, Soda Water","Shake gin, lemon, and syrup. Strain into glass, top with soda."
+Ramos Gin Fizz,7,5,1,6,4,Gin,"45ml Gin, 15ml Lime, 15ml Lemon, 30ml Syrup, 60ml Cream, Egg White, Soda","Shake very long without ice, then with ice. Top with soda for head."
+Caipirinha,7,8,2,8,2,Cachaca,"50ml Cachaca, Half a Lime, 2 tsp Sugar","Muddle lime and sugar. Add ice and cachaca, stir well."
+Whiskey Smash,7,7,1,7,8,Whiskey,"60ml Bourbon, 3 Lime Wedges, 8 Mint Leaves, 22ml Simple Syrup","Muddle lime and mint with syrup. Add whiskey, shake and strain."
+Mint Julep,7,0,1,9,10,Whiskey,"60ml Bourbon, 1 tsp Sugar, 8-10 Mint Leaves","Muddle mint and sugar. Fill with crushed ice, add bourbon and stir."
+Bellini,8,4,1,4,1,Prosecco,"100ml Prosecco, 50ml Fresh Peach Puree","Pour puree into glass, top with prosecco while stirring gently."
+Mimosa,7,6,1,4,1,Champagne,"75ml Champagne, 75ml Orange Juice",Pour juice then champagne into a flute.
+Pimm's Cup,7,5,3,4,8,Pimm's,"50ml Pimm's No. 1, 150ml Lemonade, Fruit Slices",Build in a tall glass with ice and fruit.
+Singapore Sling,7,6,3,7,6,Gin,"30ml Gin, 15ml Cherry Brandy, 120ml Pineapple Juice, 15ml Lime, 7.5ml Cointreau",Shake with ice and strain into a tall glass.
+Vesper,2,1,4,10,6,Gin,"45ml Gin, 15ml Vodka, 7.5ml Lillet Blanc",Shake with ice and strain into a chilled glass.
+Hanky Panky,4,1,7,9,9,Gin,"45ml Gin, 45ml Sweet Vermouth, 2 dashes Fernet Branca",Stir with ice and strain.
+Bijou,5,1,6,9,10,Gin,"30ml Gin, 30ml Green Chartreuse, 30ml Sweet Vermouth",Stir with ice and strain.
+Martinez,6,1,4,9,7,Gin,"45ml Old Tom Gin, 45ml Sweet Vermouth, 1 bar spoon Maraschino",Stir with ice and strain.
+Rusty Nail,6,0,3,10,5,Whiskey,"45ml Scotch Whiskey, 25ml Drambuie","Build in glass over ice, stir gently."
+Harvey Wallbanger,7,5,2,6,5,Vodka,"45ml Vodka, 15ml Galliano, 90ml Orange Juice",Stir vodka and juice with ice. Float Galliano on top.
+Tequila Sunrise,8,4,1,6,1,Tequila,"45ml Tequila, 90ml Orange Juice, 15ml Grenadine",Pour tequila and juice over ice. Drizzle grenadine so it sinks.
+Amaretto Sour,8,8,2,5,1,Amaretto,"50ml Amaretto, 25ml Lemon Juice, 5ml Sugar Syrup, Egg White",Shake with ice and strain.
+Irish Coffee,6,0,6,6,1,Whiskey,"40ml Irish Whiskey, 80ml Hot Coffee, 30ml Fresh Cream, 1 tsp Sugar","Stir whiskey, coffee and sugar. Float cream on top."
+Brandy Alexander,8,1,2,7,1,Brandy,"30ml Brandy, 30ml Creme de Cacao, 30ml Fresh Cream",Shake with ice and strain.
+Adonis,5,1,3,5,7,Sherry,"45ml Fino Sherry, 45ml Sweet Vermouth, 2 dashes Orange Bitters",Stir with ice and strain into a chilled glass.
+Bamboo,4,1,3,5,7,Sherry,"45ml Dry Sherry, 45ml Dry Vermouth, 2 dashes Orange Bitters, 2 dashes Angostura Bitters",Stir with ice and strain into a chilled glass.
+Black Russian,6,0,5,8,1,Vodka,"50ml Vodka, 20ml Coffee Liqueur",Pour into an old fashioned glass filled with ice. Stir gently.
+White Russian,8,0,4,6,1,Vodka,"50ml Vodka, 20ml Coffee Liqueur, 30ml Fresh Cream",Pour vodka and coffee liqueur over ice. Float cream on top.
+Blue Hawaii,9,4,0,6,1,Rum,"30ml Light Rum, 30ml Vodka, 15ml Blue Curacao, 90ml Pineapple Juice, 30ml Sweet and Sour Mix",Combine all ingredients with ice in a blender and blend until smooth.
+Bobby Burns,4,1,3,9,8,Whiskey,"30ml Scotch Whisky, 30ml Sweet Vermouth, 15ml Benedictine",Stir with ice and strain into a chilled glass.
+Bronx,5,4,2,7,4,Gin,"30ml Gin, 15ml Sweet Vermouth, 10ml Dry Vermouth, 15ml Orange Juice",Shake with ice and strain into a chilled glass.
+Champagne Cocktail,7,1,4,6,2,Champagne,"90ml Champagne, 10ml Cognac, 2 dashes Angostura Bitters, 1 Sugar Cube","Place sugar cube in flute, add bitters, then cognac, and top with champagne."
+Cuba Libre,8,4,1,5,2,Rum,"50ml Light Rum, 120ml Cola, 10ml Fresh Lime Juice",Build in a highball glass over ice. Stir gently.
+Death in the Afternoon,3,1,4,9,10,Absinthe,"45ml Absinthe, Champagne",Pour absinthe into a flute and top with chilled champagne until it attains the proper opalescent milkiness.
+El Presidente,6,1,2,8,5,Rum,"45ml White Rum, 22ml Dry Vermouth, 22ml Orange Curacao, 1 bar spoon Grenadine",Stir with ice and strain into a chilled glass.
+Gibson,1,1,2,10,6,Gin,"60ml Gin, 10ml Dry Vermouth",Stir with ice and strain into a chilled glass. Garnish with a cocktail onion.
+Grasshopper,10,0,1,4,6,Liqueur,"30ml Creme de Menthe (Green), 30ml Creme de Cacao (White), 30ml Fresh Cream",Shake with ice and strain into a chilled glass.
+Hemingway Special,4,8,3,7,2,Rum,"60ml White Rum, 15ml Maraschino Liqueur, 40ml Grapefruit Juice, 15ml Fresh Lime Juice",Shake with ice and strain into a chilled glass.
+Horse's Neck,6,4,2,5,2,Cognac,"40ml Cognac, 120ml Ginger Ale, 1 dash Angostura Bitters",Build in highball glass with ice. Garnish with a long lemon zest spiral.
+Hot Toddy,6,4,1,6,4,Whiskey,"50ml Whiskey, 1 tbsp Honey, 15ml Lemon Juice, Hot Water","Combine whiskey, honey, and lemon in a mug. Top with hot water and stir."
+Jack Rose,6,7,1,7,2,Applejack,"45ml Applejack, 15ml Lemon or Lime Juice, 15ml Grenadine",Shake with ice and strain into a chilled glass.
+Japanese Cocktail,6,1,3,8,4,Cognac,"60ml Cognac, 15ml Orgeat Syrup, 2 dashes Angostura Bitters",Stir with ice and strain into a chilled glass.
+Kir,7,4,2,4,3,Wine,"90ml Dry White Wine, 10ml Creme de Cassis","Add creme de cassis to the glass, then top with white wine."
+Kir Royale,7,4,2,5,3,Champagne,"90ml Champagne, 10ml Creme de Cassis","Add creme de cassis to a flute, then top with champagne."
+Lemon Drop Martini,8,8,0,7,1,Vodka,"50ml Vodka Citron, 20ml Triple Sec, 15ml Fresh Lemon Juice",Shake with ice and strain into a sugar-rimmed glass.
+Long Island Iced Tea,7,6,1,9,2,Mixed,"15ml Vodka, 15ml Tequila, 15ml White Rum, 15ml Gin, 15ml Triple Sec, 25ml Lemon Juice, 30ml Syrup, Cola",Shake all ingredients except cola. Strain over ice and top with cola.
+Mary Pickford,8,4,1,7,2,Rum,"45ml White Rum, 45ml Pineapple Juice, 1 bar spoon Maraschino, 1 bar spoon Grenadine",Shake with ice and strain into a chilled glass.
+Mudslide,10,0,3,6,1,Vodka,"30ml Vodka, 30ml Coffee Liqueur, 30ml Irish Cream Liqueur",Shake with ice and strain into an old fashioned glass over fresh ice.
+Paradise,7,5,1,7,4,Gin,"35ml Gin, 20ml Apricot Brandy, 15ml Orange Juice",Shake with ice and strain into a chilled glass.
+Pink Lady,7,6,1,7,2,Gin,"45ml Gin, 15ml Apple Brandy, 15ml Lemon Juice, 1 bar spoon Grenadine, Egg White",Shake with ice and strain into a chilled glass.
+Planter's Punch,8,6,2,7,3,Rum,"45ml Dark Rum, 35ml Orange Juice, 35ml Pineapple Juice, 20ml Lemon Juice, 10ml Syrup, 10ml Grenadine, 3 dashes Bitters",Shake all ingredients with ice and strain into a tall glass.
+Rob Roy,4,1,4,9,6,Whiskey,"45ml Scotch Whisky, 25ml Sweet Vermouth, 1 dash Angostura Bitters",Stir with ice and strain into a chilled glass.
+Sangria,8,5,2,5,3,Wine,"Red Wine, Chopped Fruit, Honey/Sugar, Brandy, Soda Water","Mix wine, fruit, and sweetener. Refrigerate for hours. Top with soda before serving."
+Sea Breeze,6,8,3,5,1,Vodka,"40ml Vodka, 120ml Cranberry Juice, 30ml Grapefruit Juice",Build in highball glass over ice. Stir gently.
+Sherry Cobbler,8,4,1,5,3,Sherry,"120ml Sherry, 15ml Simple Syrup, 2 Orange Slices",Muddle orange and syrup. Add sherry and shake with ice. Strain over crushed ice.
+Stinger,7,0,2,8,9,Cognac,"50ml Cognac, 20ml White Creme de Menthe",Stir with ice and strain into a chilled glass.
+Tuxedo,2,1,4,9,9,Gin,"30ml Old Tom Gin, 30ml Dry Vermouth, 1/2 bar spoon Maraschino, 1/4 bar spoon Absinthe, 3 dashes Orange Bitters",Stir with ice and strain into a chilled glass.
+Vieux Carré,4,1,5,10,8,Whiskey,"30ml Rye Whiskey, 30ml Cognac, 30ml Sweet Vermouth, 1 bar spoon Benedictine, 2 dashes Peychaud’s, 2 dashes Angostura",Stir with ice and strain into a glass over a large ice cube.
+Zombie,8,6,3,10,5,Rum,"45ml Dark Rum, 45ml Gold Rum, 22ml Overproof Rum, 22ml Lime Juice, 15ml Falernum, 15ml Grapefruit Juice, 1 tsp Grenadine",Shake with ice and strain into a tall glass with crushed ice.
+20th Century,5,7,4,7,4,Gin,"45ml Gin, 22ml Lillet Blanc, 22ml Creme de Cacao (White), 22ml Lemon Juice",Shake with ice and strain into a chilled glass.
+Alaska,3,1,3,10,10,Gin,"45ml Gin, 15ml Yellow Chartreuse, 1 dash Orange Bitters",Stir with ice and strain into a chilled glass.
+Alexander,8,1,1,7,1,Gin,"30ml Gin, 30ml White Creme de Cacao, 30ml Fresh Cream",Shake with ice and strain into a chilled glass.
+Angel Face,6,1,2,10,6,Gin,"30ml Gin, 30ml Apricot Brandy, 30ml Calvados",Shake with ice and strain into a chilled glass.
+Between the Sheets,5,7,1,9,2,Cognac,"30ml Cognac, 30ml White Rum, 30ml Triple Sec, 20ml Lemon Juice",Shake with ice and strain into a chilled glass.
+Blood and Sand,7,5,3,7,5,Whiskey,"22ml Scotch, 22ml Sweet Vermouth, 22ml Cherry Heering, 22ml Orange Juice",Shake with ice and strain into a chilled glass.
+Casino,5,8,2,8,4,Gin,"40ml Gin, 10ml Maraschino Liqueur, 10ml Fresh Lemon Juice, 2 dashes Orange Bitters",Shake with ice and strain into a chilled glass.
+Derby,6,1,2,9,8,Gin,"60ml Gin, 2 drops Peach Bitters, 2 Mint Leaves",Stir with ice and strain into a chilled glass with mint garnish.
+El Diablo,7,7,2,6,4,Tequila,"45ml Tequila, 15ml Creme de Mure, 15ml Lime Juice, Ginger Beer","Shake tequila, liqueur and lime. Strain over ice and top with ginger beer."
+Gin Basil Smash,6,8,1,7,10,Gin,"60ml Gin, 22ml Lemon Juice, 22ml Simple Syrup, 12 Basil Leaves",Muddle basil with syrup and lemon. Add gin and shake with ice. Double strain into ice-filled glass.
+Godfather,5,0,3,10,2,Whiskey,"35ml Scotch Whisky, 35ml Amaretto",Build in an old fashioned glass with ice and stir.
+Godmother,5,0,3,10,2,Vodka,"35ml Vodka, 35ml Amaretto",Build in an old fashioned glass with ice and stir.
+Greyhound,3,9,4,6,1,Vodka,"45ml Vodka, 90ml Grapefruit Juice",Build in a rocks glass with ice and stir.
+Hurricane,9,7,1,8,2,Rum,"60ml Dark Rum, 60ml Light Rum, 60ml Passion Fruit Juice, 30ml Orange Juice, 15ml Lime Juice, 1 tbsp Grenadine",Shake with ice and strain into a hurricane glass.
+Knickerbocker,7,6,1,7,3,Rum,"50ml Rum, 15ml Raspberry Syrup, 15ml Orange Curacao, 25ml Lime Juice",Shake with ice and strain into a glass filled with crushed ice.
+Lynchburg Lemonade,8,7,1,6,2,Whiskey,"45ml Jack Daniel’s, 30ml Triple Sec, 30ml Lemon Juice, Lemon-Lime Soda",Shake all but soda. Strain over ice and top with soda.
+Mezcal Margarita,4,9,2,8,8,Mezcal,"50ml Mezcal, 20ml Triple Sec, 20ml Lime Juice",Shake with ice and strain into a salt-rimmed glass.
+Midori Sour,9,8,1,5,1,Midori,"45ml Midori Melon Liqueur, 30ml Sweet and Sour Mix, 15ml Lime Juice, Soda Water","Build in glass over ice, top with soda."
+Monkey Gland,6,5,2,7,6,Gin,"50ml Gin, 30ml Orange Juice, 2 drops Absinthe, 2 drops Grenadine",Shake with ice and strain into a chilled glass.
+Morning Glory Fizz,5,7,2,7,7,Whiskey,"60ml Scotch Whisky, 15ml Lemon Juice, 15ml Lime Juice, 1 tsp Sugar, Egg White, Absinthe Rinse, Soda Water",Shake all but soda. Strain and top with soda.
+Old Cuban,6,7,3,7,9,Rum,"45ml Aged Rum, 22ml Lime Juice, 22ml Simple Syrup, 2 dashes Angostura, 6 Mint Leaves, Champagne",Muddle mint with syrup and lime. Shake with rum and ice. Strain and top with champagne.
+Orgasm,10,0,2,5,1,Liqueur,"30ml Amaretto, 30ml Kahlua, 30ml Baileys",Build in rocks glass over ice and stir.
+Pisco Punch,8,7,1,7,2,Pisco,"60ml Pisco, 30ml Pineapple Juice, 15ml Lime Juice, 15ml Syrup",Shake with ice and strain into a glass.
+Porto Flip,7,1,2,6,2,Port,"45ml Port Wine, 15ml Brandy, 1 Egg Yolk",Shake with ice and strain into a chilled glass. Garnish with nutmeg.
+Red Snapper,3,5,4,7,6,Gin,"45ml Gin, 90ml Tomato Juice, 15ml Lemon Juice, Spices",Stir with ice and strain into glass. Like a Gin Bloody Mary.
+Scorpion,7,7,1,9,3,Rum,"60ml White Rum, 30ml Brandy, 60ml Orange Juice, 45ml Lemon Juice, 15ml Orgeat Syrup",Shake with ice and strain into glass filled with ice.
+Screwdriver,7,5,1,6,1,Vodka,"50ml Vodka, 100ml Orange Juice",Build in glass over ice and stir.
+Tequila Sour,6,8,2,7,2,Tequila,"50ml Tequila, 25ml Lemon Juice, 15ml Agave Syrup, Egg White",Shake and strain into a chilled glass.
+Tommy's Margarita,4,9,1,8,2,Tequila,"50ml Tequila, 25ml Lime Juice, 15ml Agave Syrup",Shake with ice and strain into ice-filled glass.
+Trinidad Sour,5,7,10,7,9,Angostura,"45ml Angostura Bitters, 30ml Orgeat, 22ml Lemon Juice, 15ml Rye Whiskey",Shake with ice and strain into chilled glass.
+Ward Eight,6,7,1,8,3,Whiskey,"60ml Rye Whiskey, 22ml Lemon Juice, 22ml Orange Juice, 1 tsp Grenadine",Shake with ice and strain into chilled glass.
+Alabama Slammer,8,4,2,6,3,Mixed,"30ml Southern Comfort, 30ml Amaretto, 30ml Sloe Gin, 60ml Orange Juice",Shake with ice and strain into highball glass.
+B-52,9,0,3,5,1,Liqueur,"15ml Kahlua, 15ml Baileys, 15ml Grand Marnier",Layer ingredients in a shot glass in the order given.
+Bahama Mama,9,4,1,7,2,Rum,"15ml Dark Rum, 15ml Coconut Rum, 15ml Overproof Rum, 15ml Coffee Liqueur, Pineapple Juice, Lemon Juice",Shake with ice and strain into highball glass.
+Barracuda,7,5,2,6,2,Rum,"45ml Gold Rum, 15ml Galliano, 60ml Pineapple Juice, dash Lime, Prosecco top",Shake all but prosecco. Strain and top with prosecco.
+Black Velvet,3,2,6,4,4,Beer,"120ml Stout (Guinness), 120ml Champagne","Pour stout first, then gently layer champagne on top."
+Buck's Fizz,7,5,1,4,1,Champagne,"100ml Champagne, 50ml Orange Juice",Build in glass and stir gently.
+Caipiroska,7,8,2,8,2,Vodka,"50ml Vodka, Half a Lime, 2 tsp Sugar",Muddle lime and sugar. Add ice and vodka. Stir.
+Cape Codder,6,8,3,5,1,Vodka,"45ml Vodka, 90ml Cranberry Juice",Build in highball glass over ice.
+Chocolate Martini,10,0,2,6,1,Vodka,"45ml Vodka, 45ml Chocolate Liqueur",Shake with ice and strain into chilled glass.
+Dirty Martini,1,4,4,10,4,Gin,"60ml Gin, 10ml Dry Vermouth, 10ml Olive Brine",Stir with ice and strain into chilled glass.
+Dublin Iced Tea,7,6,2,9,4,Mixed,"15ml Whiskey, 15ml Rum, 15ml Gin, 15ml Triple Sec, Lemon Juice, Guinness top",Shake all but Guinness. Strain and top with Guinness.
+Fuzzy Navel,9,4,1,4,1,Peach Schnapps,"30ml Peach Schnapps, 100ml Orange Juice",Build in glass over ice.
+Golden Cadillac,9,0,2,5,5,Galliano,"22ml Galliano, 22ml Creme de Cacao (White), 22ml Cream",Shake with ice and strain into chilled glass.
+Golden Dream,8,4,2,5,5,Galliano,"20ml Galliano, 20ml Triple Sec, 20ml Orange Juice, 10ml Cream",Shake with ice and strain into chilled glass.
+Kamikaze,5,8,1,8,1,Vodka,"30ml Vodka, 30ml Triple Sec, 30ml Lime Juice",Shake with ice and strain into a glass.
+Lemon Drop,8,8,0,8,1,Vodka,"30ml Vodka, 15ml Triple Sec, 15ml Lemon Juice",Shake with ice and strain into a shot glass.
+Madras,8,7,2,5,1,Vodka,"45ml Vodka, 90ml Cranberry Juice, 30ml Orange Juice",Build in highball glass over ice.
+Mezcal Negroni,4,1,9,10,9,Mezcal,"30ml Mezcal, 30ml Campari, 30ml Sweet Vermouth",Stir with ice and strain.
+Painkiller,9,3,1,8,2,Rum,"60ml Dark Rum, 120ml Pineapple Juice, 30ml Orange Juice, 30ml Coconut Cream",Shake with ice and strain into tall glass. Nutmeg on top.
+Pousse Cafe,10,0,2,5,4,Mixed,"Grenadine, Maraschino, Green Chartreuse, Cognac",Layer ingredients carefully based on density.
+Queen's Park Swizzle,7,7,4,8,10,Rum,"60ml Dark Rum, 30ml Lime Juice, 22ml Simple Syrup, Mint Leaves, dashes Bitters",Swizzle in glass with crushed ice.
+Russian Spring Punch,7,7,2,7,2,Vodka,"25ml Vodka, 25ml Lemon Juice, 15ml Creme de Cassis, 10ml Sugar, Sparkling Wine top",Shake all but wine. Strain and top with wine.
+Sex on the Beach,9,4,1,5,1,Vodka,"40ml Vodka, 20ml Peach Schnapps, 40ml Orange Juice, 40ml Cranberry Juice",Build in glass over ice.
+Sloe Gin Fizz,7,7,1,4,5,Sloe Gin,"45ml Sloe Gin, 30ml Lemon Juice, 15ml Syrup, Soda top",Shake all but soda. Strain and top with soda.
+Tequini,2,1,3,10,3,Tequila,"60ml Tequila, 15ml Dry Vermouth",Stir with ice and strain into chilled glass.
+Ti' Punch,5,6,2,9,6,Rhum Agricole,"60ml Rhum Agricole, 1 bar spoon Cane Syrup, Lime disc",Build in glass. Squeeze lime disc and stir gently.
+Yellow Bird,7,4,2,8,5,Rum,"30ml White Rum, 15ml Galliano, 15ml Triple Sec, 15ml Lime Juice",Shake with ice and strain into chilled glass.
+Appletini,8,7,1,7,1,Vodka,"45ml Vodka, 45ml Apple Juice/Schnapps, 1 dash Lemon Juice",Shake with ice and strain into chilled glass.
+B-53,9,0,3,5,3,Mixed,"15ml Kahlua, 15ml Baileys, 15ml Absinthe",Layer in shot glass.
+Blue Lagoon,7,8,1,6,1,Vodka,"30ml Vodka, 30ml Blue Curacao, Lemonade top",Build in glass over ice.
+Cuba Libre Preparado,7,5,3,6,4,Rum,"Rum, Cola, Lime, dashes Bitters, Gin top",Build in glass.
+Gin And Tonic,3,5,6,5,8,Gin,"50ml Gin, 120ml Tonic Water",Build in glass over ice. Garnish with lime.
+Irish Mule,7,7,2,6,3,Whiskey,"45ml Irish Whiskey, Ginger Beer, Lime Juice",Build in mug over ice.
+Lemon Drop Shot,8,9,0,7,1,Vodka,"30ml Vodka Citron, Lemon Wedge, Sugar",Drink shot then suck sugar-coated lemon.
+Vodka Martini,1,1,3,10,1,Vodka,"60ml Vodka, 10ml Dry Vermouth",Stir with ice and strain into chilled glass.
